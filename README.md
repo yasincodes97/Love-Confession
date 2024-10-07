@@ -46,7 +46,3 @@ yasin.codes
 * Thanks to [Markdown](https://www.markdownguide.org) for making it easy to write this README file
 
 I hope you enjoy this project! Let me know if you have any questions or feedback.
-
-You can insert your cursor here: <|cursor|>
-
-I'll insert the code here.
