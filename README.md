@@ -37,7 +37,7 @@ See the `LICENSE` file for more information.
 ## Author
 -------
 
-yasin.codes
+@[yasin.codes](https://www.instagram.com/yasin.codes/)
 
 ## Acknowledgments
 ---------------
