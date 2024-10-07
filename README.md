@@ -1,7 +1,7 @@
 # Love Confession
 ================
 
-A lovely web project to confess my love
+A lovely web project to confess your love
 
 ## About
 --------
